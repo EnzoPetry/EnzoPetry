@@ -5,6 +5,4 @@
    
   
   <p align="justify">Estudante de Ciências da Computação na Faculdade Uniritter (Campus Fapa) e adoro trabalhar com projetos que envolvam tanto hardware quanto software.
-  Atualmente, possuo conhecimentos nas linguagens de programação C, C++, Java e HTML, mas estou sempre buscando aprimorar minhas habilidades e aprendendo novas tecnologias, como PHP, Laravel e Postgres.
-
-Meu objetivo é criar projetos embarcados que possam ter um impacto positivo no dia-a-dia de pessoas que possuam algum tipo de deficiência.</p>
+  Atualmente, possuo conhecimentos nas linguagens de programação C, C++, Java e HTML, mas estou sempre buscando aprimorar minhas habilidades e aprendendo novas tecnologias, como PHP, Laravel e Postgres.</p>
